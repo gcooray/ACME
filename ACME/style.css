@@ -48,6 +48,9 @@ body html {
 h2 {
   font-size: 20px;
 }
+p {
+  font-size: 12px;
+}
 .interactables {
   display: flex;
   margin-top: 3%;
